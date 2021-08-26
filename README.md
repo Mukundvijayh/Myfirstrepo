@@ -1,3 +1,3 @@
 # Myfirstrepo
 Test
-Testig to add a text
+Testing to add a text
